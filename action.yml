@@ -1,0 +1,6 @@
+name: "Test Second order Github Actions"
+description: "References GH Actions within Actions."
+
+runs:
+ steps:
+     - uses: technote-space/release-github-actions@*
